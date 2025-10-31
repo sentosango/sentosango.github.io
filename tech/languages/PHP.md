@@ -43,3 +43,4 @@ PHP использую в связке с:
 - **[Git](../tech-tools/Git.md)** - для версионирования кода
 - **[PhpUnit](../tech-tools/PhpUnit.md)** - для тестирования
 - **[Composer](../tech-tools/Composer.md)** - для управления зависимостями
+- [PSR](../methodologies/PSR.md) - рекомендации по стилю кодирования

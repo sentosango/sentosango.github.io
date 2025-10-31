@@ -27,4 +27,4 @@ PHP-клиент для работы с API ВКонтакте, который �
 
 - **[PHP](../../tech/languages/PHP.md)** - основной язык
 - **[Composer](../../tech/tech-tools/Composer.md)** - управление зависимостями
-- **[REST API](../../tech/methodologies/REST API.md)** - работа с VK API
+- **[REST API](../../tech/methodologies/REST%20API.md)** - работа с VK API

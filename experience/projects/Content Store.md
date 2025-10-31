@@ -32,7 +32,7 @@
 - **[PHP](../../tech/languages/PHP.md)** - основной язык backend
 - **[REST API](../../tech/methodologies/REST%20API.md)** - API для клиентов
 - **[Quasar](../../tech/frameworks/Quasar.md)** - фреймворк для кроссплатформенного клиента
-- **[Vue.js](../../tech/frameworks/Vue.js.md)** - используется внутри Quasar для реактивного интерфейса
+- **[VueJS](../../tech/frameworks/VueJS.md)** - используется внутри Quasar для реактивного интерфейса
 - **[JavaScript](../../tech/languages/JavaScript.md)** - язык для frontend
 - [HTML, CSS](../../tech/languages/HTML,%20CSS.md) - разметка и стили
 - **[Docker](../../tech/tech-tools/Docker.md)** - контейнеризация
