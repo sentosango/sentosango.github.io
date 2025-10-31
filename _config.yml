@@ -1,0 +1,4 @@
+title: Sento Sango - Portfolio
+description: Портфолио Backend-разработчика (Laravel/PHP)
+plugins:
+  - jekyll-relative-links
