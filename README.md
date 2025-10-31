@@ -253,7 +253,7 @@ Open-source Laravel-пакет для автоматизации работы с
 - Интеграция с backend API
 - Работа в экосистеме Vue (Nuxt, Quasar)
 
-**Применение:** BTrud (2018-2019), Morizo (2021-2024), Inboxly (2021), Content Store
+**Применение:**
 - **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)**
 - **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)**
 - **[Inboxly](experience/projects/Inboxly.md)**
