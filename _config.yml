@@ -1,4 +1,5 @@
 title: Sento Sango - Portfolio
 description: Портфолио Backend-разработчика (Laravel/PHP)
+markdown: GFM
 plugins:
   - jekyll-relative-links
