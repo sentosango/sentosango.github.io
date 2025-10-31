@@ -35,11 +35,11 @@
 
 - **[Laravel](../../tech/frameworks/Laravel.md)** - backend фреймворк
 - **[PHP](../../tech/languages/PHP.md)** - основной язык backend
-- **[REST API](../../tech/methodologies/REST%20API.md)** - API для клиентов
+- **[REST_API](../../tech/methodologies/REST_API.md)** - API для клиентов
 - **[Quasar](../../tech/frameworks/Quasar.md)** - фреймворк для кроссплатформенного клиента
 - **[VueJS](../../tech/frameworks/VueJS.md)** - используется внутри Quasar для реактивного интерфейса
 - **[JavaScript](../../tech/languages/JavaScript.md)** - язык для frontend
-- [HTML, CSS](../../tech/languages/HTML,%20CSS.md) - разметка и стили
+- [HTML,_CSS](../../tech/languages/HTML,_CSS.md) - разметка и стили
 - **[Docker](../../tech/tech-tools/Docker.md)** - контейнеризация
 - **[PhpUnit](../../tech/tech-tools/PhpUnit.md)** - тестирование
 

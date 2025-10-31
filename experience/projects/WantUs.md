@@ -15,12 +15,12 @@
 - [PHP](../../tech/languages/PHP.md)
 - [Laravel](../../tech/frameworks/Laravel.md)
 - [Blade](../../tech/languages/Blade.md)
-- [HTML, CSS](../../tech/languages/HTML,%20CSS.md)
+- [HTML,_CSS](../../tech/languages/HTML,_CSS.md)
 - [Bootstrap](../../tech/frameworks/Bootstrap.md)
 - [JavaScript](../../tech/languages/JavaScript.md)
-- [REST API](../../tech/methodologies/REST%20API.md)
+- [REST_API](../../tech/methodologies/REST_API.md)
 
 
 ## Связанные проекты
 
-- [Laravel Vk Requester](Laravel%20Vk%20Requester.md)
+- [Laravel_Vk_Requester](Laravel_Vk_Requester.md)

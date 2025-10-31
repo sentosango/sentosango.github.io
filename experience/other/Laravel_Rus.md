@@ -24,18 +24,18 @@
 
 За время активного участия в сообществе создал и опубликовал в Open Source несколько своих composer-пакетов, которые позже передал в репозитории сообщества для дальнейшего развития и поддержки.
 
-### [Vk Client](../projects/Vk%20Client.md)
+### [Vk_Client](../projects/Vk_Client.md)
 
 Composer-пакет PHP клиента для API социальной сети ВКонтакте.
 
-### [Laravel Vk Requester](../projects/Laravel%20Vk%20Requester.md)
+### [Laravel_Vk_Requester](../projects/Laravel_Vk_Requester.md)
 
 Composer-пакет для Laravel для автоматизации выполнения запросов к API ВКонтакте в фоновом режиме (queue).
 
-### [Laravel Stubs](../projects/Laravel%20Stubs.md)
+### [Laravel_Stubs](../projects/Laravel_Stubs.md)
 
 Composer-пакет для Laravel, позволяющий гибко настроить под себя stub-файлы Laravel.
 
-### [Awesome Laravel Rus](../projects/Awesome%20Laravel%20Rus.md)
+### [Awesome_Laravel_Rus](../projects/Awesome_Laravel_Rus.md)
 
 Подборка ссылок на все русскоязычные источники по разработке с использованием Laravel.

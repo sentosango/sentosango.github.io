@@ -6,9 +6,9 @@ Backend-разработчик, работаю с PHP/Laravel с 2014 года. 
 
 Работал над проектами разного масштаба — от стартапов до CMS для 50+ сайтов министерств Московской области. Прошел путь от фриланса до работы в российских и международных командах, включая проекты с англоязычными заказчиками.
 
-Активно участвовал в сообществе Laravel Rus (2015-2019, ник ATehnix) — помогал участникам, модерировал чаты, создавал и передавал сообществу open-source проекты.  [Подробнее →](experience/other/Laravel%20Rus.md)
+Активно участвовал в сообществе Laravel Rus (2015-2019, ник ATehnix) — помогал участникам, модерировал чаты, создавал и передавал сообществу open-source проекты.  [Подробнее →](experience/other/Laravel_Rus.md)
 
-Имею неоконченное высшее образование по специальности "Веб-разработка" (МТИ "ВТУ", 2011). [Подробнее →](experience/other/Education%20and%20skills.md)
+Имею неоконченное высшее образование по специальности "Веб-разработка" (МТИ "ВТУ", 2011). [Подробнее →](experience/other/Education_and_skills.md)
 
 **Ключевые компетенции:**
 - Разработка REST API и проектирование архитектуры приложений
@@ -24,7 +24,7 @@ Backend-разработчик, работаю с PHP/Laravel с 2014 года. 
 
 ## 💼 Опыт работы
 
-### Backend Developer @ [2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)
+### Backend Developer @ [2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)
 
 **О компании:** IT-компания, разработка веб-приложений и системная интеграция.
 
@@ -58,11 +58,11 @@ Backend-разработчик, работаю с PHP/Laravel с 2014 года. 
 
 **Стек:** PHP, Laravel, MySQL, Redis, Vue.js, Nuxt.js, Docker, PhpUnit, GitLab CI/CD
 
-[Подробнее →](experience/work/dev/2021-2024%20-%20Morizo.md)
+[Подробнее →](experience/work/dev/2021-2024_-_Morizo.md)
 
 ---
 
-### Backend Developer @ [2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)
+### Backend Developer @ [2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)
 
 Спроектировал и разработал с нуля онлайн-сервис по поиску вакансий и резюме (аналог HH.ru для Карелии). Прошел полный цикл: от проработки архитектуры до пред-релизного состояния.
 
@@ -74,11 +74,11 @@ Backend-разработчик, работаю с PHP/Laravel с 2014 года. 
 
 **Стек:** PHP, Laravel, MySQL, Vue.js, Nuxt.js, Docker, PhpUnit, GitLab CI/CD
 
-[Подробнее →](experience/work/dev/2018-2019%20-%20BTrud.md)
+[Подробнее →](experience/work/dev/2018-2019_-_BTrud.md)
 
 ---
 
-### Backend Developer @ [2016-2017 - Appwilio](experience/work/dev/2016-2017%20-%20Appwilio.md)
+### Backend Developer @ [2016-2017_-_Appwilio](experience/work/dev/2016-2017_-_Appwilio.md)
 
 Разработка веб-приложений для российских и американских клиентов. Первый опыт работы в международной команде.
 
@@ -98,23 +98,23 @@ Backend-разработчик, работаю с PHP/Laravel с 2014 года. 
 
 **Стек:** PHP, Laravel, MySQL, PostgreSQL, PhpUnit
 
-[Подробнее →](experience/work/dev/2016-2017%20-%20Appwilio.md)
+[Подробнее →](experience/work/dev/2016-2017_-_Appwilio.md)
 
 ---
 
 ### Ранний опыт Backend разработки (2014-2016)
 
-- **[2016 - DSE](experience/work/dev/2016-2016%20-%20DSE.md)** — Backend Developer, система управления спортивными мероприятиями для университетов США
-- **[2015-2016 - TRM](experience/work/dev/2015-2016%20-%20TRM.md)** — Backend Developer, веб-портал в сфере туризма
-- **[2014-2015 - Freelance](experience/work/dev/2014-2015%20-%20Freelance.md)** — Фриланс проекты
+- **[2016 - DSE](experience/work/dev/2016-2016_-_DSE.md)** — Backend Developer, система управления спортивными мероприятиями для университетов США
+- **[2015-2016_-_TRM](experience/work/dev/2015-2016_-_TRM.md)** — Backend Developer, веб-портал в сфере туризма
+- **[2014-2015_-_Freelance](experience/work/dev/2014-2015_-_Freelance.md)** — Фриланс проекты
 
 ---
 
 ### Прочее
 
-- **[2024-2025 - Prof break](experience/work/other/2024-2025%20-%20Prof%20break.md)** — Запланированный перерыв после Morizo для изучения новых технологий (AI-инструменты, Python), разработки pet-проектов и творческой реализации
-- **[2011-2014 - IT Service Center](experience/work/other/2011-2014%20-%20IT%20Service%20Center.md)** — Главный инженер / Директор, ремонт и обслуживание компьютерной техники
-- **[2008-2011 - Internet Provider](experience/work/other/2008-2011%20-%20Internet%20Provider.md)** — Инженер-специалист, монтаж и настройка локальных сетей
+- **[2024-2025_-_Prof_break](experience/work/other/2024-2025_-_Prof_break.md)** — Запланированный перерыв после Morizo для изучения новых технологий (AI-инструменты, Python), разработки pet-проектов и творческой реализации
+- **[2011-2014_-_IT_Service_Center](experience/work/other/2011-2014_-_IT_Service_Center.md)** — Главный инженер / Директор, ремонт и обслуживание компьютерной техники
+- **[2008-2011_-_Internet_Provider](experience/work/other/2008-2011_-_Internet_Provider.md)** — Инженер-специалист, монтаж и настройка локальных сетей
 
 ---
 
@@ -146,7 +146,7 @@ Pet-проект, созданный в 2021 году как альтернат�
 
 ---
 
-### [Laravel Vk Requester](experience/projects/Laravel%20Vk%20Requester.md) - Пакет для работы с VK API
+### [Laravel_Vk_Requester](experience/projects/Laravel_Vk_Requester.md) - Пакет для работы с VK API
 
 Open-source Laravel-пакет для автоматизации работы с VK API через систему очередей. Создан для проектов с большим количеством взаимосвязанных запросов к ВКонтакте.
 
@@ -166,7 +166,7 @@ Open-source Laravel-пакет для автоматизации работы с
 
 **Статус:** Архивный
 
-[Подробнее →](experience/projects/Laravel%20Vk%20Requester.md) | [GitHub](https://github.com/laravelrus/laravel-vk-requester)
+[Подробнее →](experience/projects/Laravel_Vk_Requester.md) | [GitHub](https://github.com/laravelrus/laravel-vk-requester)
 
 ---
 
@@ -183,7 +183,7 @@ Open-source Laravel-пакет для автоматизации работы с
 **Технические решения:**
 - Интеграция с VK API для мониторинга сообществ
 - Система фильтрации и агрегации сообщений по ключевым словам
-- Использование [Laravel Vk Requester](experience/projects/Laravel%20Vk%20Requester.md) для работы с API
+- Использование [Laravel_Vk_Requester](experience/projects/Laravel_Vk_Requester.md) для работы с API
 
 **Стек:** PHP, Laravel, Blade, HTML, CSS, Bootstrap, JavaScript, REST API
 
@@ -195,15 +195,15 @@ Open-source Laravel-пакет для автоматизации работы с
 ### Другие проекты
 
 - **[SpyLance](experience/projects/SpyLance.md)** — агрегатор заказов с фриланс-бирж (продан в 2014-2015)
-- **[Content Store](experience/projects/Content%20Store.md)** — сервис для сохранения контента из интернета (в разработке)
-- **[Vk Client](experience/projects/Vk%20Client.md)** — PHP-клиент для VK API (архивный)
-- **[Php Client](experience/projects/Php%20Client.md)** — набор API-клиентов для домашней инфраструктуры (активный)
+- **[Content_Store](experience/projects/Content_Store.md)** — сервис для сохранения контента из интернета (в разработке)
+- **[Vk_Client](experience/projects/Vk_Client.md)** — PHP-клиент для VK API (архивный)
+- **[Php_Client](experience/projects/Php_Client.md)** — набор API-клиентов для домашней инфраструктуры (активный)
 - **[UniParser](experience/projects/UniParser.md)** — веб-приложение для разработки парсеров (2014)
-- **[Laravel Stubs](experience/projects/Laravel%20Stubs.md)** — пакет для настройки stub-файлов Laravel (архивный)
+- **[Laravel_Stubs](experience/projects/Laravel_Stubs.md)** — пакет для настройки stub-файлов Laravel (архивный)
 - **[CMF](experience/projects/CMF.md)** — Content Management Framework (экспериментальный)
-- **[Micro-framework La](experience/projects/Micro-framework%20La.md)** — минимальный PHP-фреймворк (экспериментальный)
+- **[Micro-framework_La](experience/projects/Micro-framework_La.md)** — минимальный PHP-фреймворк (экспериментальный)
 - **[PhpIL](experience/projects/PhpIL.md)** — библиотека для работы с изображениями (не завершен)
-- **[Awesome Laravel Rus](experience/projects/Awesome%20Laravel%20Rus.md)** — коллекция ссылок на русскоязычные ресурсы по Laravel
+- **[Awesome_Laravel_Rus](experience/projects/Awesome_Laravel_Rus.md)** — коллекция ссылок на русскоязычные ресурсы по Laravel
 
 ---
 
@@ -254,10 +254,10 @@ Open-source Laravel-пакет для автоматизации работы с
 - Работа в экосистеме Vue (Nuxt, Quasar)
 
 **Применение:** BTrud (2018-2019), Morizo (2021-2024), Inboxly (2021), Content Store
-- **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)**
-- **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)**
+- **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)**
+- **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)**
 - **[Inboxly](experience/projects/Inboxly.md)**
-- **[Content Store](experience/projects/Content%20Store.md)**
+- **[Content_Store](experience/projects/Content_Store.md)**
 
 [Подробнее →](tech/frameworks/VueJS.md)
 
@@ -274,8 +274,8 @@ Open-source Laravel-пакет для автоматизации работы с
 - Использование Nuxt-модулей
 
 **Применение:**
-- **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)** — админ-панели для CMS и туристического портала
-- **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)** — первичные наброски
+- **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)** — админ-панели для CMS и туристического портала
+- **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)** — первичные наброски
 
 [Подробнее →](tech/frameworks/NuxtJS.md)
 
@@ -293,7 +293,7 @@ Open-source Laravel-пакет для автоматизации работы с
 
 **Применение:** 
 - **[Inboxly](experience/projects/Inboxly.md)** — веб и десктоп из одной кодовой базы, 
-- **[Content Store](experience/projects/Content%20Store.md)** — начало разработки клиента
+- **[Content_Store](experience/projects/Content_Store.md)** — начало разработки клиента
 
 [Подробнее →](tech/frameworks/Quasar.md)
 
@@ -311,11 +311,11 @@ Open-source Laravel-пакет для автоматизации работы с
 - Выбирал как "средний" оптимальный вариант БД
 
 **Применение:**
-- **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)**
-- **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)**
-- **[2016-2017 - Appwilio](experience/work/dev/2016-2017%20-%20Appwilio.md)**
-- **[2016-2016 - DSE](experience/work/dev/2016-2016%20-%20DSE.md)**
-- **[2015-2016 - TRM](experience/work/dev/2015-2016%20-%20TRM.md)**
+- **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)**
+- **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)**
+- **[2016-2017_-_Appwilio](experience/work/dev/2016-2017_-_Appwilio.md)**
+- **[2016-2016_-_DSE](experience/work/dev/2016-2016_-_DSE.md)**
+- **[2015-2016_-_TRM](experience/work/dev/2015-2016_-_TRM.md)**
 
 [Подробнее →](tech/databases/MySQL.md)
 
@@ -331,7 +331,7 @@ Open-source Laravel-пакет для автоматизации работы с
 - Опыт не большой, чаще работал с MySQL
 
 **Применение:**
-- **[2016-2017 - Appwilio](experience/work/dev/2016-2017%20-%20Appwilio.md)**
+- **[2016-2017_-_Appwilio](experience/work/dev/2016-2017_-_Appwilio.md)**
 
 [Подробнее →](tech/databases/PostgreSQL.md)
 
@@ -346,11 +346,11 @@ Open-source Laravel-пакет для автоматизации работы с
 - Применял только в Laravel в качестве "драйвера"
 
 **Применение:**
-- **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)**
-- **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)**
-- **[2016-2017 - Appwilio](experience/work/dev/2016-2017%20-%20Appwilio.md)**
-- **[2016-2016 - DSE](experience/work/dev/2016-2016%20-%20DSE.md)**
-- **[2015-2016 - TRM](experience/work/dev/2015-2016%20-%20TRM.md)**
+- **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)**
+- **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)**
+- **[2016-2017_-_Appwilio](experience/work/dev/2016-2017_-_Appwilio.md)**
+- **[2016-2016_-_DSE](experience/work/dev/2016-2016_-_DSE.md)**
+- **[2015-2016_-_TRM](experience/work/dev/2015-2016_-_TRM.md)**
 
 [Подробнее →](tech/databases/Redis.md)
 
@@ -388,10 +388,10 @@ Open-source Laravel-пакет для автоматизации работы с
 - Не работал с docker swarm и kubernetes
 
 **Применение:**
-- **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)**
-- **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)**
+- **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)**
+- **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)**
 - **[Inboxly](experience/projects/Inboxly.md)**
-- **[Content Store](experience/projects/Content%20Store.md)**
+- **[Content_Store](experience/projects/Content_Store.md)**
 
 [Подробнее →](tech/tech-tools/Docker.md)
 
@@ -430,9 +430,9 @@ Open-source Laravel-пакет для автоматизации работы с
 - Настройка pipeline для автоматизации
 
 **Применение:** 
-- **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)**
-- **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)** — 100% покрытие
-- **[2015-2016 - TRM](experience/work/dev/2015-2016%20-%20TRM.md)** — более 2000 интеграционных тестов
+- **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)**
+- **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)** — 100% покрытие
+- **[2015-2016_-_TRM](experience/work/dev/2015-2016_-_TRM.md)** — более 2000 интеграционных тестов
 
 [Подробнее →](tech/tech-tools/GitLab.md)
 
@@ -451,12 +451,12 @@ Open-source Laravel-пакет для автоматизации работы с
 - Личные проекты: менее строгие требования на начальных этапах, но при переходе в стадию полноценной разработки тестирование обязательно
 
 **Применение:** 
-- **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)**
-- **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)** — 100% покрытие
-- **[2016-2017 - Appwilio](experience/work/dev/2016-2017%20-%20Appwilio.md)**
-- **[2015-2016 - TRM](experience/work/dev/2015-2016%20-%20TRM.md)** — более 2000 интеграционных тестов
+- **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)**
+- **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)** — 100% покрытие
+- **[2016-2017_-_Appwilio](experience/work/dev/2016-2017_-_Appwilio.md)**
+- **[2015-2016_-_TRM](experience/work/dev/2015-2016_-_TRM.md)** — более 2000 интеграционных тестов
 - **[Inboxly](experience/projects/Inboxly.md)**
-- **[Content Store](experience/projects/Content%20Store.md)**
+- **[Content_Store](experience/projects/Content_Store.md)**
 
 [Подробнее →](tech/tech-tools/PhpUnit.md)
 
@@ -466,14 +466,14 @@ Open-source Laravel-пакет для автоматизации работы с
 - **[Composer](tech/tech-tools/Composer.md)**  — Управление зависимостями PHP-проектов и создание собственных пакетов
 - **[Shell](tech/languages/Shell.md)** — работа с bash для автоматизации задач, администрирования серверов, написания скриптов
 - **[Nginx](tech/tech-tools/Nginx.md)** — настройка веб-сервера для production и dev-окружений
-- **[Nginx Proxy Manager](tech/tech-tools/Nginx%20Proxy%20Manager.md)** — веб-интерфейс для управления Nginx reverse proxy в домашней сети
+- **[Nginx_Proxy_Manager](tech/tech-tools/Nginx_Proxy_Manager.md)** — веб-интерфейс для управления Nginx reverse proxy в домашней сети
 - **[Redmine](tech/tech-tools/Redmine.md)** — система управления проектами и задачами (использовал в Morizo)
 
 ---
 
 ### 📋 Методологии и практики
 
-#### [REST API](tech/methodologies/REST%20API.md) (с 2015 года)
+#### [REST_API](tech/methodologies/REST_API.md) (с 2015 года)
 
 Проектирование и разработка backend API, интеграция со сторонними сервисами. Уверенное владение.
 
@@ -496,21 +496,21 @@ Open-source Laravel-пакет для автоматизации работы с
 
 **Применение:**
 - **Рабочие:** 
-    - **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)**
-    - **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)**
-    - **[2016-2017 - Appwilio](experience/work/dev/2016-2017%20-%20Appwilio.md)**
-    - **[2016-2016 - DSE](experience/work/dev/2016-2016%20-%20DSE.md)**
-    - **[2015-2016 - TRM](experience/work/dev/2015-2016%20-%20TRM.md)**
+    - **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)**
+    - **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)**
+    - **[2016-2017_-_Appwilio](experience/work/dev/2016-2017_-_Appwilio.md)**
+    - **[2016-2016_-_DSE](experience/work/dev/2016-2016_-_DSE.md)**
+    - **[2015-2016_-_TRM](experience/work/dev/2015-2016_-_TRM.md)**
 - **Личные:** 
-    - **[Content Store](experience/projects/Content%20Store.md)**
+    - **[Content_Store](experience/projects/Content_Store.md)**
     - **[Inboxly](experience/projects/Inboxly.md)**
     - **[WantUs](experience/projects/WantUs.md)**
-    - **[Vk Client](experience/projects/Vk%20Client.md)**
-    - **[Laravel Vk Requester](experience/projects/Laravel%20Vk%20Requester.md)**
-    - **[Content Store](experience/projects/Content%20Store.md)**
-    - **[Php Client](experience/projects/Php%20Client.md)** (openai, ollama, tailscale, keenetic, syncthing)
+    - **[Vk_Client](experience/projects/Vk_Client.md)**
+    - **[Laravel_Vk_Requester](experience/projects/Laravel_Vk_Requester.md)**
+    - **[Content_Store](experience/projects/Content_Store.md)**
+    - **[Php_Client](experience/projects/Php_Client.md)** (openai, ollama, tailscale, keenetic, syncthing)
 
-[Подробнее →](tech/methodologies/REST%20API.md)
+[Подробнее →](tech/methodologies/REST_API.md)
 
 
 #### [PSR](tech/methodologies/PSR.md) (PHP Standards Recommendations)
@@ -531,10 +531,10 @@ Open-source Laravel-пакет для автоматизации работы с
 **Подход:** Следование PSR — естественная часть разработки, не формальность.
 
 **Применение:** 
-- **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)**
-- **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)**
-- **[2016-2016 - DSE](experience/work/dev/2016-2016%20-%20DSE.md)**
-- **[2015-2016 - TRM](experience/work/dev/2015-2016%20-%20TRM.md)**
+- **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)**
+- **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)**
+- **[2016-2016_-_DSE](experience/work/dev/2016-2016_-_DSE.md)**
+- **[2015-2016_-_TRM](experience/work/dev/2015-2016_-_TRM.md)**
 - все личные проекты на PHP
 
 [Подробнее →](tech/methodologies/PSR.md)
@@ -558,8 +558,8 @@ Open-source Laravel-пакет для автоматизации работы с
 - Условное выполнение jobs (rules, only/except)
 
 **Опыт:**
-- **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)** — настройка с нуля
-- **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)** — доработка и использование
+- **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)** — настройка с нуля
+- **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)** — доработка и использование
 
 [Подробнее →](tech/methodologies/CI-CD.md)
 
@@ -575,10 +575,10 @@ Open-source Laravel-пакет для автоматизации работы с
 - Разные интерфейсы для разных ролей пользователей
 
 **Применение:**
-- **[2021-2024 - Morizo](experience/work/dev/2021-2024%20-%20Morizo.md)**: Mosreg CMS — RBAC для админ-панели; Туристический портал —  для админ-панели и для личного кабинета
-- **[2018-2019 - BTrud](experience/work/dev/2018-2019%20-%20BTrud.md)**: роли админ, работодатель, соискатель с разными интерфейсами и доступными методами API
-- **[2016-2016 - DSE](experience/work/dev/2016-2016%20-%20DSE.md)**: система ролей была отлажена до прихода в проект
-- **[2015-2016 - TRM](experience/work/dev/2015-2016%20-%20TRM.md)**: три основных категории пользователей с разными интерфейсами личного кабинета и правами
+- **[2021-2024_-_Morizo](experience/work/dev/2021-2024_-_Morizo.md)**: Mosreg CMS — RBAC для админ-панели; Туристический портал —  для админ-панели и для личного кабинета
+- **[2018-2019_-_BTrud](experience/work/dev/2018-2019_-_BTrud.md)**: роли админ, работодатель, соискатель с разными интерфейсами и доступными методами API
+- **[2016-2016_-_DSE](experience/work/dev/2016-2016_-_DSE.md)**: система ролей была отлажена до прихода в проект
+- **[2015-2016_-_TRM](experience/work/dev/2015-2016_-_TRM.md)**: три основных категории пользователей с разными интерфейсами личного кабинета и правами
 
 [Подробнее →](tech/methodologies/RBAC.md)
 
@@ -599,7 +599,7 @@ Open-source Laravel-пакет для автоматизации работы с
 
 Активно изучаю и экспериментирую с AI-инструментами для улучшения процесса разработки — от генерации кода до автоматизации рутинных задач.
 
-[Подробнее →](experience/work/other/2024-2025%20-%20Prof%20break.md)
+[Подробнее →](experience/work/other/2024-2025_-_Prof_break.md)
 
 ---
 

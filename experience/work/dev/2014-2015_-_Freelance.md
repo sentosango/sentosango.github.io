@@ -22,4 +22,4 @@
 
 - **Языки и фреймворки:**
   - [PHP](../../../tech/languages/PHP.md)
-  - [Code Igniter](../../../tech/frameworks/Code%20Igniter.md)
+  - [Code_Igniter](../../../tech/frameworks/Code_Igniter.md)

@@ -7,11 +7,11 @@
 
 ### В рабочее время
 
-- **[2021-2024 - Morizo](../../experience/work/dev/2021-2024%20-%20Morizo.md)**
-- **[2018-2019 - BTrud](../../experience/work/dev/2018-2019%20-%20BTrud.md)**
-- **[2016-2017 - Appwilio](../../experience/work/dev/2016-2017%20-%20Appwilio.md)**
-- **[2016-2016 - DSE](../../experience/work/dev/2016-2016%20-%20DSE.md)**
-- **[2015-2016 - TRM](../../experience/work/dev/2015-2016%20-%20TRM.md)**
+- **[2021-2024_-_Morizo](../../experience/work/dev/2021-2024_-_Morizo.md)**
+- **[2018-2019_-_BTrud](../../experience/work/dev/2018-2019_-_BTrud.md)**
+- **[2016-2017_-_Appwilio](../../experience/work/dev/2016-2017_-_Appwilio.md)**
+- **[2016-2016_-_DSE](../../experience/work/dev/2016-2016_-_DSE.md)**
+- **[2015-2016_-_TRM](../../experience/work/dev/2015-2016_-_TRM.md)**
 
 
 ### В личных проектах

@@ -27,7 +27,7 @@ SpyLance - это агрегатор заказов со всех популяр
 ## Технологический стек
 
 - **[PHP](../../tech/languages/PHP.md)** - основной язык разработки
-- **[Code Igniter](../../tech/frameworks/Code%20Igniter.md)** - фреймворк для backend (прошло больше 10 лет, точно не помню, но скорее всего это был CodeIgniter, а не чистый PHP)
+- **[Code_Igniter](../../tech/frameworks/Code_Igniter.md)** - фреймворк для backend (прошло больше 10 лет, точно не помню, но скорее всего это был CodeIgniter, а не чистый PHP)
 
 
 ## История с продажей

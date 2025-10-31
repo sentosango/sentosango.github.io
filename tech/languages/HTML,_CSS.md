@@ -40,6 +40,6 @@
 ### Личные проекты
 
 - **[Inboxly](../../experience/projects/Inboxly.md)** - разметка и стилизация кроссплатформенного клиента на Quasar
-- **[Content Store](../../experience/projects/Content%20Store.md)** - HTML-шаблоны и стили для клиентского приложения
+- **[Content_Store](../../experience/projects/Content_Store.md)** - HTML-шаблоны и стили для клиентского приложения
 - **[WantUs](../../experience/projects/WantUs.md)** - разметка и стилизация интерфейса веб-приложения
 - **[UniParser](../../experience/projects/UniParser.md)** - HTML и стили для веб-интерфейса

@@ -24,12 +24,12 @@
 
 ### В рабочих проектах
 
-- **[2021-2024 - Morizo](../../experience/work/dev/2021-2024%20-%20Morizo.md)**
+- **[2021-2024_-_Morizo](../../experience/work/dev/2021-2024_-_Morizo.md)**
   - Mosreg CMS и почти все остальные проекты компании
   - Внутренние сервисы компании
   - Настройка dev-окружений и production-деплоя
 
-- **[2018-2019 - BTrud](../../experience/work/dev/2018-2019%20-%20BTrud.md)**
+- **[2018-2019_-_BTrud](../../experience/work/dev/2018-2019_-_BTrud.md)**
   - Контейнеризация приложения
   - Настройка окружений для разработки и production
 
@@ -37,4 +37,4 @@
 ### В личных проектах
 
 - **[Inboxly](../../experience/projects/Inboxly.md)** - контейнеризация компонентов системы
-- **[Content Store](../../experience/projects/Content%20Store.md)** - Docker для dev-окружения и деплоя
+- **[Content_Store](../../experience/projects/Content_Store.md)** - Docker для dev-окружения и деплоя

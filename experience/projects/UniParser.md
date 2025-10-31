@@ -22,5 +22,5 @@
 - [PHP](../../tech/languages/PHP.md)
 - [JavaScript](../../tech/languages/JavaScript.md)
 - [AngularJS](../../tech/frameworks/AngularJS.md)
-- [HTML, CSS](../../tech/languages/HTML,%20CSS.md)
+- [HTML,_CSS](../../tech/languages/HTML,_CSS.md)
 

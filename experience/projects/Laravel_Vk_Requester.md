@@ -59,10 +59,10 @@ Laravel-пакет для автоматизации работы с VK API че
 
 - **[Laravel](../../tech/frameworks/Laravel.md)** - основной фреймворк
 - **[PHP](../../tech/languages/PHP.md)** - язык разработки
-- **[Vk Client](Vk%20Client.md)** - используется внутри для выполнения запросов к VK API
-- **VK API** ([REST API](../../tech/methodologies/REST%20API.md)) - работа с социальной сетью ВКонтакте
+- **[Vk_Client](Vk_Client.md)** - используется внутри для выполнения запросов к VK API
+- **VK API** ([REST_API](../../tech/methodologies/REST_API.md)) - работа с социальной сетью ВКонтакте
 
 
 ### Связанные проекты
 
-- [Vk Client](Vk%20Client.md)
+- [Vk_Client](Vk_Client.md)

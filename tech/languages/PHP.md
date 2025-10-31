@@ -29,12 +29,12 @@ PHP - мой основной язык программирования для b
 
 ## Применение в проектах
 
-- **[2021-2024 - Morizo](../../experience/work/dev/2021-2024%20-%20Morizo.md)** - разработка и поддержка CMS для 50+ сайтов министерств, туристический портал, внутренние сервисы компании, покрытие автотестами
-- **[2018-2019 - BTrud](../../experience/work/dev/2018-2019%20-%20BTrud.md)** - проектирование и разработка с нуля сервиса поиска вакансий (аналог HH.ru), backend API, 100% покрытие тестами
-- **[2016-2017 - Appwilio](../../experience/work/dev/2016-2017%20-%20Appwilio.md)** - разработка сервиса интеграции с транспортными компаниями
+- **[2021-2024_-_Morizo](../../experience/work/dev/2021-2024_-_Morizo.md)** - разработка и поддержка CMS для 50+ сайтов министерств, туристический портал, внутренние сервисы компании, покрытие автотестами
+- **[2018-2019_-_BTrud](../../experience/work/dev/2018-2019_-_BTrud.md)** - проектирование и разработка с нуля сервиса поиска вакансий (аналог HH.ru), backend API, 100% покрытие тестами
+- **[2016-2017_-_Appwilio](../../experience/work/dev/2016-2017_-_Appwilio.md)** - разработка сервиса интеграции с транспортными компаниями
 - **[Inboxly](../../experience/projects/Inboxly.md)** - backend API для агрегатора RSS/Atom контента, composer-библиотека для работы с RSS/Atom
-- **[Laravel Vk Requester](../../experience/projects/Laravel%20Vk%20Requester.md)** - composer-пакет для работы с VK API
-- **[Vk Client](../../experience/projects/Vk%20Client.md)** - PHP-клиент для VK API
+- **[Laravel_Vk_Requester](../../experience/projects/Laravel_Vk_Requester.md)** - composer-пакет для работы с VK API
+- **[Vk_Client](../../experience/projects/Vk_Client.md)** - PHP-клиент для VK API
 - **[SpyLance](../../experience/projects/SpyLance.md)** - веб-приложение для мониторинга фриланс-бирж
 - И другие проекты в портфолио
 

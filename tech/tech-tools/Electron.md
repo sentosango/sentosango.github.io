@@ -11,7 +11,7 @@
 ### Примеры применения
 
 - **[Inboxly](../../experience/projects/Inboxly.md)** - агрегатор RSS/Atom фидов с десктопной версией на Quasar + Electron
-- **[Content Store](../../experience/projects/Content%20Store.md)** - кроссплатформенный клиент для сервиса сохранения контента
+- **[Content_Store](../../experience/projects/Content_Store.md)** - кроссплатформенный клиент для сервиса сохранения контента
 
 
 ## Уровень владения

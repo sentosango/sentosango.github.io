@@ -11,31 +11,31 @@
 
 ### Рабочие проекты
 
-- **[2021-2024 - Morizo](../../experience/work/dev/2021-2024%20-%20Morizo.md)**
+- **[2021-2024_-_Morizo](../../experience/work/dev/2021-2024_-_Morizo.md)**
   - Разработка и поддержка API для админ-панели Mosreg CMS
   - Разработка REST API для внутренних сервисов компании
   - Интеграция с внешними API: полнотекстовый поиск, сбор обращений граждан, баг-трекинг и др.
 
-- **[2018-2019 - BTrud](../../experience/work/dev/2018-2019%20-%20BTrud.md)**
+- **[2018-2019_-_BTrud](../../experience/work/dev/2018-2019_-_BTrud.md)**
   - Спроектировал и разработал REST API для онлайн-сервиса по поиску вакансий и резюме
   - Покрыл API автотестами на 100%, написал подробную документацию
 
-- **[2016-2017 - Appwilio](../../experience/work/dev/2016-2017%20-%20Appwilio.md)**
+- **[2016-2017_-_Appwilio](../../experience/work/dev/2016-2017_-_Appwilio.md)**
   - Разработка и поддержка REST API для мобильного приложения (США)
   - Интеграция с API для конвертации валют (несколько взаимозаменяемых источников)
 
-- **[2016-2016 - DSE](../../experience/work/dev/2016-2016%20-%20DSE.md)**
+- **[2016-2016_-_DSE](../../experience/work/dev/2016-2016_-_DSE.md)**
   - Разработка интеграции с API аппаратного контроля доступа
   - Поддержка backend системы управления мероприятиями для университетов США
 
-- **[2015-2016 - TRM](../../experience/work/dev/2015-2016%20-%20TRM.md)**
+- **[2015-2016_-_TRM](../../experience/work/dev/2015-2016_-_TRM.md)**
   - Разработал REST API для туристического портала с нуля
   - Покрыл тестами API. Более чем 2000 интеграционных тестов
 
 
 ### Личные проекты
 
-- **[Content Store](../../experience/projects/Content%20Store.md)** - делал полноценный REST API для сервиса сохранения контента. Спроектировал так, чтобы работал с разными клиентами - web и Android
+- **[Content_Store](../../experience/projects/Content_Store.md)** - делал полноценный REST API для сервиса сохранения контента. Спроектировал так, чтобы работал с разными клиентами - web и Android
 - **[Inboxly](../../experience/projects/Inboxly.md)** - backend API для агрегатора RSS/Atom фидов. Выделил в отдельный компонент с четкой API спецификацией, чтобы клиентское приложение можно было переписать независимо
 - **[WantUs](../../experience/projects/WantUs.md)** - интегрировался с API ВКонтакте для мониторинга сообщений в сообществах
 
@@ -44,10 +44,10 @@
 
 Написал несколько PHP-клиентов для работы с API разных сервисов:
 
-- **[Vk Client](../../experience/projects/Vk%20Client.md)** - клиент для работы с API ВКонтакте
-- **[Laravel Vk Requester](../../experience/projects/Laravel%20Vk%20Requester.md)** - Laravel-пакет для обработки запросов от VK
-- **[Content Store](../../experience/projects/Content%20Store.md) / content-fetcher** - инструмент для получения контента через API
-- **[Php Client](../../experience/projects/Php%20Client.md)** - набор клиентов для различных сервисов на базе библиотеки Saloon:
+- **[Vk_Client](../../experience/projects/Vk_Client.md)** - клиент для работы с API ВКонтакте
+- **[Laravel_Vk_Requester](../../experience/projects/Laravel_Vk_Requester.md)** - Laravel-пакет для обработки запросов от VK
+- **[Content_Store](../../experience/projects/Content_Store.md) / content-fetcher** - инструмент для получения контента через API
+- **[Php_Client](../../experience/projects/Php_Client.md)** - набор клиентов для различных сервисов на базе библиотеки Saloon:
   - php-client/openai - для работы с ChatGPT и совместимыми API
   - php-client/ollama - для работы с локальными LLM-моделями
   - php-client/tailscale - для управления VPN-сетью

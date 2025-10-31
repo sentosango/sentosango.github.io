@@ -13,15 +13,15 @@
 
 В проектах, где использовал VueJS, Nuxt или Quasar:
 - **[Inboxly](../../experience/projects/Inboxly.md)** - агрегатор RSS/Atom фидов на Quasar Framework
-- **[Content Store](../../experience/projects/Content%20Store.md)** - сервис для сохранения контента, клиент на Quasar
+- **[Content_Store](../../experience/projects/Content_Store.md)** - сервис для сохранения контента, клиент на Quasar
 
 
 ### Рабочие проекты
 
-- **[2015-2016 - TRM](../../experience/work/dev/2015-2016%20-%20TRM.md)** - веб-портал в сфере туризма, использовался Vue для frontend. Я работал над backend, но npm использовался в проекте для frontend-разработки
-- **[2016-2016 - DSE](../../experience/work/dev/2016-2016%20-%20DSE.md)** - система управления мероприятиями для университетов США. На мне была backend-разработка, но в проекте npm использовался для сборки frontend
-- **[2018-2019 - BTrud](../../experience/work/dev/2018-2019%20-%20BTrud.md)** - организовывал технический стек с NuxtJS для frontend
-- **[2021-2024 - Morizo](../../experience/work/dev/2021-2024%20-%20Morizo.md)** - участвовал во frontend-разработке на VueJS/NuxtJS, когда требовалось
+- **[2015-2016_-_TRM](../../experience/work/dev/2015-2016_-_TRM.md)** - веб-портал в сфере туризма, использовался Vue для frontend. Я работал над backend, но npm использовался в проекте для frontend-разработки
+- **[2016-2016_-_DSE](../../experience/work/dev/2016-2016_-_DSE.md)** - система управления мероприятиями для университетов США. На мне была backend-разработка, но в проекте npm использовался для сборки frontend
+- **[2018-2019_-_BTrud](../../experience/work/dev/2018-2019_-_BTrud.md)** - организовывал технический стек с NuxtJS для frontend
+- **[2021-2024_-_Morizo](../../experience/work/dev/2021-2024_-_Morizo.md)** - участвовал во frontend-разработке на VueJS/NuxtJS, когда требовалось
 
 В большинстве случаев frontend-разработкой занимались коллеги, а я использовал уже настроенное ими окружение для запуска dev-сервера и установки зависимостей.
 
